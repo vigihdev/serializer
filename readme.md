@@ -15,7 +15,6 @@ composer require vigihdev/serializer
 
 ```php
 use Serializer\Factory\JsonTransformerFactory;
-use Serializer\Transformers\GenericJsonTransformer;
 
 // Transform JSON file to objects
 $transformer = JsonTransformerFactory::create(YourDTO::class);
@@ -40,7 +39,6 @@ $object = $transformer->transformJson($json);
 ### Basic DTO
 
 ```php
-
 class UserDto
 {
     public function __construct(
