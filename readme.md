@@ -37,6 +37,7 @@ $object = $transformer->transformJson($json);
 ### Basic DTO
 
 ```php
+
 class UserDto
 {
     public function __construct(
