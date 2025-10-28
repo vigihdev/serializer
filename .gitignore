@@ -1,0 +1,21 @@
+# exclude everything except directory
+# exclude File
+/server.php
+/composer.lock
+/note.md
+
+# exclude File Dot
+.DS_Store
+.phpunit*
+/.phpunit*
+
+# exclude directory .Dot
+.amazonq
+.vscode
+
+# exclude directory
+/scripts
+/vendor
+/docs
+GEMINI.md
+.env

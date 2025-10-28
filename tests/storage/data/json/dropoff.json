@@ -1,0 +1,450 @@
+[
+    {
+        "namaMobil": "Innova Reborn",
+        "tipeMobil": "Minibus Premium",
+        "imageUrl": "minibuspremium/innova-reborn.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Sigra",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/sigra.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Calya",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/calya.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Medium Bus",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/medium-bus.png",
+        "harga": 3500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Fortuner",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/fortuner.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hilux",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/hilux.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Avanza",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/avanza.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Daihatsu Xenia",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/xenia.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Xpander",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/xpander.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Camry",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/camry.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Land Cruiser",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/land-cruiser.png",
+        "harga": 6500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Toyota Alphard",
+        "tipeMobil": "Wedding Car",
+        "imageUrl": "weddingcar/alphard.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hiace Commuter",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/hiace-commuter.png",
+        "harga": 800000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Palisade",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/palisade.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Agya",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/agya.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Brio",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/brio.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Raize",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/raize.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Daihatsu Sirion",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/sirion.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Yaris",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/yaris.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "All New Avanza",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/avanza.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "All New Xenia",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/xenia.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Ertiga",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/ertiga.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Mobilio",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/mobilio.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Rush",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/rush.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hyundai Stargazer",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/stargazer.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Terios",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/terios.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Innova Zenix",
+        "tipeMobil": "Minibus Premium",
+        "imageUrl": "minibuspremium/innova-zenix.png",
+        "harga": 1150000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Kia Carnival",
+        "tipeMobil": "Minibus Premium",
+        "imageUrl": "minibuspremium/kia-carnival.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Santa Fe",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/santa-fe.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "LandCruiser",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/landcruiser.png",
+        "harga": 6500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Bmw X1",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/bmw-x1.png",
+        "harga": 5500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Mercedes S Class",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/mercedes-s-class.png",
+        "harga": 3000000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Triton",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/triton.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Civic",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/civic.png",
+        "harga": 750000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Corolla Altis",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/corolla-altis.png",
+        "harga": 750000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Mercedes Cla",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/mercedes.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hiace Premio",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/hiace-premio.png",
+        "harga": 1600000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hiace Luxury",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/hiace.png",
+        "harga": 3200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Weddingcar Alphard",
+        "tipeMobil": "Wedding Car",
+        "imageUrl": "weddingcar/alphard.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Weddingcar Fortuner",
+        "tipeMobil": "Suv",
+        "imageUrl": "suv/fortuner.png",
+        "harga": 1200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Sirion",
+        "tipeMobil": "City Car",
+        "imageUrl": "citycar/sirion.png",
+        "harga": 250000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "All New Ertiga",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/ertiga.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Stargazer",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/stargazer.png",
+        "harga": 500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Xenia",
+        "tipeMobil": "Minibus",
+        "imageUrl": "minibus/xenia.png",
+        "harga": 450000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Alphard",
+        "tipeMobil": "Wedding Car",
+        "imageUrl": "weddingcar/alphard.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "All New Vios",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/all-new-vios.png",
+        "harga": 1150000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Bmw F30",
+        "tipeMobil": "Sedan",
+        "imageUrl": "sedan/bmw-f30.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Bmw Z4",
+        "tipeMobil": "Mobil Mewah",
+        "imageUrl": "mobilmewah/bmw-z4.png",
+        "harga": 3500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Hiace Luxury Vip",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/hiace.png",
+        "harga": 3200000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Medium Bus Vip Luxury",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/medium-bus.png",
+        "harga": 2500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Big Bus Vip Luxury",
+        "tipeMobil": "Bus",
+        "imageUrl": "bus/bus-vip-luxury.png",
+        "harga": 4000000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Isuzu Traga",
+        "tipeMobil": "Mobil Angkutan",
+        "imageUrl": "mobilangkutan/isuzu-traga.png",
+        "harga": 850000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Elf Nkr 55",
+        "tipeMobil": "Mobil Angkutan",
+        "imageUrl": "mobilangkutan/elf-nkr-55.png",
+        "harga": 750000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Elf Nmr 71",
+        "tipeMobil": "Mobil Angkutan",
+        "imageUrl": "mobilangkutan/elf-nmr-71.png",
+        "harga": 600000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Elf Nqr 71",
+        "tipeMobil": "Mobil Angkutan",
+        "imageUrl": "mobilangkutan/elf-nqr-71.png",
+        "harga": 600000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    },
+    {
+        "namaMobil": "Giga Fvr 34",
+        "tipeMobil": "Mobil Angkutan",
+        "imageUrl": "mobilangkutan/giga-fvr-34.png",
+        "harga": 1500000,
+        "paketSewa": "Dropoff",
+        "actionUrl": "#"
+    }
+]
