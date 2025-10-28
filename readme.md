@@ -1,3 +1,6 @@
+![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Serializer Package
 
 A simple, powerful JSON serializer library for PHP inspired by Symfony components. Transform JSON data into PHP objects with ease.
